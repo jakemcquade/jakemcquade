@@ -5,7 +5,7 @@
 - ⚡ Fun fact: Kanye West is my favorite artist
 
 ### 🌐 Projects
-Coming soon...
+- 🖱️ <a href="https://github.com/jakemcquade/fastautoclicker">FastAutoClicker</a> - An open sourced, lightweight, and fast auto clicker designed with a sleek modern interface.
 
 ### 💪 Tools & Skills
 <div align="left">
