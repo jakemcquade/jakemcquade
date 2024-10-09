@@ -14,7 +14,7 @@
 
 ### 📊 Stats
 [![Streak](https://github-readme-streak-stats.herokuapp.com?user=jakemcquade&theme=tokyonight_duo&hide_border=true)](https://github.com/jakemcquade)
-[![Stats](https://github-readme-stats.vercel.app/api?username=jakemcquade&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f04848&hide_border=true/)](https://github.com/jakemcquade)
+[![Stats](https://stats.jakemc.dev/api?username=jakemcquade&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f04848&hide_border=true/)](https://github.com/jakemcquade)
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=jakemcquade&style=flat-square&color=blue" />
