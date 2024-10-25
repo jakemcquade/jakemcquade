@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Jake McQuade
+## Hi, I’m Jake McQuade
 I'm a 16 year old high school student. I like running, skiing, and making software in my free time. I first started programming early 2019. You can contact me at [hello@jakemc.dev](mailto:jakemc.dev).
 
 [![SkillIcons](https://skillicons.dev/icons?theme=dark&i=ts,rust,java,lua,py,vscode,nextjs,tailwind,tauri)](https://github.com/jakemcquade)
