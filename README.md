@@ -1,23 +1,26 @@
 ## 👋 Hi, I’m Jake McQuade
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Machine Learning
-- 📫 You can contact me at [hello@jakemc.dev](mailto:jakemc.dev)
-- ⚡ Fun fact: Rust is one of my favorite languages.
+I'm a 16 year old high school student. I like running, skiing, and making software in my free time. I first started programming early 2019. You can contact me at [hello@jakemc.dev](mailto:jakemc.dev).
+
+[![SkillIcons](https://skillicons.dev/icons?theme=dark&i=ts,rust,java,lua,py,vscode,nextjs,tailwind,tauri)](https://github.com/jakemcquade)
 
 ### 🌐 Projects
-- 🖱️ <a href="https://github.com/jakemcquade/fastautoclicker">FastAutoClicker</a> - An open sourced, lightweight, and fast auto clicker designed with a sleek modern interface.
-
-### 💪 Tools & Skills
-<div align="left">
-  <img src="https://skillicons.dev/icons?theme=dark&perline=6&i=rust,ts,java,lua,py,bash,html,css,bootstrap,nextjs,nodejs,tailwind,tauri,figma,vscode,linux,raspberrypi,cloudflare" />
-</div>
+<a href="https://github.com/jakemcquade/fastautoclicker">
+  <img align="center" src="https://stats.jakemc.dev/api/pin/?username=jakemcquade&repo=fastautoclicker&theme=radical" />
+</a>
 
 ### 📊 Stats
-[![Stats](https://stats.jakemc.dev/api?username=jakemcquade&theme=radical&count_private=true&show_owner=true&show_icons=true&rank_icon=github&hide=contribs,issues)](https://github.com/jakemcquade)
+<a href="https://github.com/jakemcquade">
+  <img height=150 align="center" src="https://stats.jakemc.dev/api?username=jakemcquade&theme=radical&count_private=true&show_owner=true&show_icons=true&rank_icon=github&hide=contribs,issues" />
+</a>
 
-[![Languages](https://stats.jakemc.dev/api/top-langs?username=jakemcquade&theme=radical&layout=compact&hide=php)](https://github.com/jakemcquade)
+<a href="https://github.com/jakemcquade">
+  <img height=150 align="center" src="https://stats.jakemc.dev/api/top-langs?username=jakemcquade&theme=radical&layout=compact&hide=php" />
+</a>
 
-[![Streak](https://streak.jakemc.dev?user=jakemcquade&theme=radical)](https://github.com/jakemcquade)
+<a href="https://github.com/jakemcquade">
+  <img height=150 align="center" src="https://streak.jakemc.dev?user=jakemcquade&theme=radical" />
+</a>
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=jakemcquade&style=flat-square&color=blue" />
 </div>
