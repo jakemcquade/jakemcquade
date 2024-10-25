@@ -3,10 +3,12 @@ I'm a 16 year old high school student. I like running, skiing, and making softwa
 
 [![SkillIcons](https://skillicons.dev/icons?theme=dark&i=ts,rust,java,lua,py,vscode,nextjs,tailwind,tauri)](https://github.com/jakemcquade)
 
+<!---
 ### 🌐 Projects
 <a href="https://github.com/jakemcquade/fastautoclicker">
   <img align="center" src="https://stats.jakemc.dev/api/pin/?username=jakemcquade&repo=fastautoclicker&theme=radical" />
 </a>
+--->
 
 ### 📊 Stats
 <a href="https://github.com/jakemcquade">
